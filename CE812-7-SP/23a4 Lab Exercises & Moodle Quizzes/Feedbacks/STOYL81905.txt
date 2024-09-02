@@ -1,0 +1,57 @@
+Student PRID: STOYL81905
+Reg No: 2312447
+
+CE812 Assessed Labs and Quizzes
+Learning objectives assessed:
+  1. Write equations to model physical systems
+  2. Implement simulations of simple physical systems in a high-level language.
+  3. Implement simulations of complex physical systems in 2D or 3D using an appropriate engine.
+  4. Design and implement a physics-based game.
+
+CE812 Lab outcomes:
+  Lab 1 Progress Checker: 100.0%
+  Lab 2 Progress Checker: 100.0%
+  Lab 3 Progress Checker: 90.0%
+  Lab 5 Progress Checker: 100.0%
+  Lab 6 Progress Checker: 100.0%
+  Lab 7 Progress Checker: 85.0%
+  Lab 8 Progress Checker: 80.0%
+  Lab 4 Progress Checker: 73.7%
+Total Average Score for labs: 91.1 %
+
+
+CE812 Moodle Quiz Outcomes:
+  Vectors Quiz, score=100.0%
+  Projectiles quiz and theory, score=100.0%
+  Quiz on Motion, score=100.0%
+  Momentum quiz, score=100.0%
+  Coefficient of restitution quiz, score=100.0%
+  Matrix quiz - multiplication and rotations, score=100.0%
+  Collisions against angled walls, score=100.0%
+  Quiz on Forces 1, score=100.0%
+  Quiz on Forces 2: Identifying Forces, score=100.0%
+  Quiz on Forces 3: Normal Contact Force, score=87.5%
+  Quiz on JBox2D Introduction, score=100.0%
+  Quiz on JBox2D Body Coordinates, score=100.0%
+  Newton's law of gravity (Programming), score=100.0%
+  Vector product and 3-D physics, score=100.0%
+  Torque, score=100.0%
+  JBullet, score=100.0%
+  Centre of mass quiz, score=90.9%
+  Quiz on Lecture 9 Physics Equations, score=100.0%
+  Quiz on Rigid-Body Collision Response and Body Coordinates, score=93.3%
+  Quiz on Aeroplane Physics, score=85.7%
+  Quiz on Transformations, score=100.0%
+  Quiz on JBullet and lecture 8, score=100.0%
+  Moment of inertia and angular momentum quiz, score=90.0%
+  Vectors and Motion (Programming), score=100.0%
+  Java-Programming Ability quiz, score=100.0%
+Average quiz mark: 97.9%
+
+Total DRAFT final mark for quizzes and labs combined: (4/20)*97.9+(16/20)*91.1=92.5%
+  (Note for your final mark you need to see what gets recorded onto Faser)
+  (Note that the quizzes and labs are weighted 4:16 respectively, to contribute to the final total mark, worth 20% of the CE812 module)
+Feedback given by: M. Fairbank, m.fairbank@essex.ac.uk.  Office Number 1NW.3.19.  Academic Support Hours: see CE812 Moodle.
+If you think there might be an error in the above calculations, or if you have any questions about the feedback given, then please inform the module supervisor, M. Fairbank, by email, as soon as possible.
+If you would like another perspective on the feedback given then please contact your Personal Tutor – their details will be on LEAP ( https://leap.essex.ac.uk ).
+For further information, feel free to read through the University's Rules of Assessment ( https://www.essex.ac.uk/student/rules-of-assessment/roa-ug-glossary ) and the Assessment and Marking policies ( https://www.essex.ac.uk/student/exams-and-coursework/assessment-and-marking-policies ).
